@@ -3,6 +3,8 @@
 ## Author: Sarah Schaller
 ## Version: 80000.00
 ## Notes: Customize the ActionCam options beyond the default modes.
+## DefaultState: enabled
+## SavedVariables: SuperActionCamProfile
 
 # Cheatsheet:
 # Get Current WoW Build - /run print((select(4, GetBuildInfo())));
