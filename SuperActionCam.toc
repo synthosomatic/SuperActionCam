@@ -1,0 +1,11 @@
+## Interface: 80000
+## Title: Super Action Cam
+## Author: Sarah Schaller
+## Version: 80000.00
+## Notes: Customize the ActionCam options beyond the default modes.
+
+# Cheatsheet:
+# Get Current WoW Build - /run print((select(4, GetBuildInfo())));
+# Custom Scripts - /console AllowDangerousScripts "0" or "1"
+
+SuperActionCam.lua
